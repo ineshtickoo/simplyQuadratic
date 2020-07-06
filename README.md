@@ -4,4 +4,4 @@ This is a way of calculating quadratic equations in python without using the Qua
 
 Recently, Po-Shen Loh, a math genius discovered a new fun and really easy way to calculate quadratic equations WITHOUT using the Quadratic Formula.
 
-<iframe width="912" height="514" src="https://www.youtube.com/embed/XKBX0r3J-9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch Po-Shen Loh's video explaination of this formula!](http://img.youtube.com/vi/XKBX0r3J-9Y/0.jpg)](http://www.youtube.com/watch?v=XKBX0r3J-9Y "Examples: A Different Way to Solve Quadratic Equations")
