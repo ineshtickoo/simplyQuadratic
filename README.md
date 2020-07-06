@@ -22,9 +22,10 @@ m * n = c
 and, m + n = b
 
 Now for every two numbers whose sum is b, their average is b/2 (e.g., 7, 4 => 7+4 = 11 => (7+4)/2 = 11/2 = b/2)
+
 So, 
-m = u-a
-n = u+a 
+<br> m = u-a
+<br> n = u+a 
 where a is the average (b/2)
 
 m * n = c
